@@ -1,4 +1,4 @@
-# proiectPAO
+# Java Project - Advanced Object Oriented Programming
 
 ### Proiectul este ales pe tema Food Delivery. 
 ##### Acesta contine 12 clase grupate in 4 pachete si o clasa serviciu.
