@@ -1,0 +1,18 @@
+Generic class: Car no. 0: name='Skoda Octavia', capacity=5, disponibility=true
+
+Car no. 1: name='Volkswagen Passat', capacity=7, disponibility=true
+
+Car no. 2: name='Opel Astra', capacity=4, disponibility=true
+
+Generic class: Car no. 0: name='Skoda Octavia', capacity=5, disponibility=true
+
+Car no. 1: name='Volkswagen Passat', capacity=7, disponibility=true
+
+Car no. 2: name='Opel Astra', capacity=4, disponibility=true
+
+Generic class: Car no. 0: name='Skoda Octavia', capacity=5, disponibility=true
+
+Car no. 1: name='Volkswagen Passat', capacity=7, disponibility=true
+
+Car no. 2: name='Opel Astra', capacity=4, disponibility=true
+

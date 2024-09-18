@@ -1,0 +1,6 @@
+Generic class: User Antonescu' Ioana': city='Bucuresti', addresses=[Str. Mihai Viteazul], historyOrders=[], coupons=[]
+
+Generic class: User Antonescu' Ioana': city='Bucuresti', addresses=[Str. Mihai Viteazul], historyOrders=[], coupons=[]
+
+Generic class: User Antonescu' Ioana': city='Bucuresti', addresses=[Str. Mihai Viteazul], historyOrders=[], coupons=[]
+
