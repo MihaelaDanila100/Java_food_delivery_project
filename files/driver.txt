@@ -1,0 +1,12 @@
+tananatananatananaGeneric class: Driver: 'Popescu Ioan', age=34, city='Bucuresti', carId=2, disponibility=true
+
+Driver: 'Ionescu Petru', age=27, city='Bucuresti', carId=1, disponibility=true
+
+Driver: 'Vasilescu Gheorghe', age=38, city='Bucuresti', carId=3, disponibility=true
+
+Generic class: Driver: 'Popescu Ioan', age=34, city='Bucuresti', carId=2, disponibility=true
+
+Driver: 'Ionescu Petru', age=27, city='Bucuresti', carId=1, disponibility=true
+
+Driver: 'Vasilescu Gheorghe', age=38, city='Bucuresti', carId=3, disponibility=true
+
